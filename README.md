@@ -23,7 +23,7 @@
 # Как запустить
 1. Клонируйте репозиторий:
    
-   git clone https://github.com/ваш_ник/simple-calculator.git
+   git clone https://github.com/matve-del/simple-calculator.git
  
  3. Перейдите в папку проекта:
 
