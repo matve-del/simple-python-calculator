@@ -23,7 +23,7 @@
 # Как запустить
 1. Клонируйте репозиторий:
    
-   https://github.com/matve-del/simple-python-calculator.git
+   https://github.com/MaDevMax/simple-python-calculator.git
  
  3. Перейдите в папку проекта:
 
